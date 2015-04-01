@@ -1,0 +1,176 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1157" measuredH="618" mockupW="1061" mockupH="573">
+  <controls>
+    <control controlID="59" controlTypeID="__group__" x="96" y="45" w="282" h="573" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="59">
+          <controlProperties>
+            <model>IPhone5</model>
+            <topBar>false</topBar>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="27" y="83" w="229" h="35" measuredW="229" measuredH="35" zOrder="1" locked="false" isInGroup="59">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="229" h="35" measuredW="229" measuredH="35" zOrder="0" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="229" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="87" y="7" w="-1" h="-1" measuredW="41" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Typing</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="164" y="4" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <direction>center</direction>
+                <href>Introduction%26bm%3BIntroduction.bmml%26bm%3BIntroduction.bmml%26bm%3BIntroduction.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22191%2C87%2C241%2C114%22%20href%3D%22Introduction.bmml%22%20alt%3D%22Introduction%22%20id%3D%221%22/%3E</map>
+                <text>Done</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="27" y="328" w="-1" h="-1" measuredW="227" measuredH="160" zOrder="6" locked="false" isInGroup="59"/>
+        <control controlID="11" controlTypeID="__group__" x="40" y="155" w="199" h="42" measuredW="199" measuredH="42" zOrder="2" locked="false" isInGroup="59">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="199" measuredH="21" zOrder="0" locked="false" isInGroup="11">
+              <controlProperties>
+                <text>The%20quick%20brown%20fox%20jumped%20over%20</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="58" y="21" w="-1" h="-1" measuredW="83" measuredH="21" zOrder="1" locked="false" isInGroup="11">
+              <controlProperties>
+                <text>the%20lazy%20dogs.</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::TextInput" x="40" y="203" w="203" h="-1" measuredW="79" measuredH="26" zOrder="3" locked="false" isInGroup="59"/>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="107" y="127" w="-1" h="-1" measuredW="68" measuredH="21" zOrder="4" locked="false" isInGroup="59">
+          <controlProperties>
+            <text>Item%20X%20of%20Y</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="__group__" x="45" y="244" w="192" h="105" measuredW="192" measuredH="105" zOrder="5" locked="false" isInGroup="59">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="188" measuredH="21" zOrder="0" locked="false" isInGroup="14">
+              <controlProperties>
+                <text>Enter%20the%20text%20from%20the%20text%20box</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="6" y="21" w="-1" h="-1" measuredW="176" measuredH="21" zOrder="1" locked="false" isInGroup="14">
+              <controlProperties>
+                <text>at%20the%20top%20of%20the%20screen%20in%20the</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="11" y="42" w="-1" h="-1" measuredW="167" measuredH="21" zOrder="2" locked="false" isInGroup="14">
+              <controlProperties>
+                <text>input%20area.%20%20Press%20the%20%27Done%27</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="6" y="63" w="-1" h="-1" measuredW="186" measuredH="21" zOrder="3" locked="false" isInGroup="14">
+              <controlProperties>
+                <text>button%20in%20the%20upper%20right%20corner</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="12" y="84" w="-1" h="-1" measuredW="165" measuredH="21" zOrder="4" locked="false" isInGroup="14">
+              <controlProperties>
+                <text>of%20the%20screen%20when%20finished.</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="60" controlTypeID="__group__" x="431" y="45" w="282" h="573" measuredW="282" measuredH="573" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="60">
+          <controlProperties>
+            <model>IPhone5</model>
+            <topBar>false</topBar>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="27" y="83" w="229" h="35" measuredW="229" measuredH="35" zOrder="1" locked="false" isInGroup="60">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="229" h="35" measuredW="229" measuredH="35" zOrder="0" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="229" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="87" y="7" w="-1" h="-1" measuredW="41" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Typing</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="164" y="4" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <direction>center</direction>
+                <href>Introduction%26bm%3BIntroduction.bmml%26bm%3BIntroduction.bmml%26bm%3BIntroduction.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22526%2C87%2C576%2C114%22%20href%3D%22Introduction.bmml%22%20alt%3D%22Introduction%22%20id%3D%221%22/%3E</map>
+                <text>Done</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="40" y="203" w="203" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="60"/>
+        <control controlID="12" controlTypeID="__group__" x="40" y="244" w="192" h="105" measuredW="192" measuredH="105" zOrder="2" locked="false" isInGroup="60">
+          <groupChildrenDescriptors>
+            <control controlID="5" controlTypeID="__group__" x="0" y="0" w="192" h="105" measuredW="192" measuredH="105" zOrder="0" locked="false" isInGroup="12">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="188" measuredH="21" zOrder="0" locked="false" isInGroup="5">
+                  <controlProperties>
+                    <text>Enter%20the%20text%20from%20the%20text%20box</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="6" y="21" w="-1" h="-1" measuredW="176" measuredH="21" zOrder="1" locked="false" isInGroup="5">
+                  <controlProperties>
+                    <text>at%20the%20top%20of%20the%20screen%20in%20the</text>
+                  </controlProperties>
+                </control>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="11" y="42" w="-1" h="-1" measuredW="167" measuredH="21" zOrder="2" locked="false" isInGroup="5">
+                  <controlProperties>
+                    <text>input%20area.%20%20Press%20the%20%27Done%27</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="6" y="63" w="-1" h="-1" measuredW="186" measuredH="21" zOrder="3" locked="false" isInGroup="5">
+                  <controlProperties>
+                    <text>button%20in%20the%20upper%20right%20corner</text>
+                  </controlProperties>
+                </control>
+                <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="12" y="84" w="-1" h="-1" measuredW="165" measuredH="21" zOrder="4" locked="false" isInGroup="5">
+                  <controlProperties>
+                    <text>of%20the%20screen%20when%20finished.</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="13" controlTypeID="__group__" x="40" y="155" w="199" h="42" measuredW="199" measuredH="42" zOrder="3" locked="false" isInGroup="60">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="199" measuredH="21" zOrder="0" locked="false" isInGroup="13">
+              <controlProperties>
+                <text>The%20quick%20brown%20fox%20jumped%20over%20</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="58" y="21" w="-1" h="-1" measuredW="83" measuredH="21" zOrder="1" locked="false" isInGroup="13">
+              <controlProperties>
+                <text>the%20lazy%20dogs.</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="107" y="127" w="-1" h="-1" measuredW="68" measuredH="21" zOrder="5" locked="false" isInGroup="60">
+          <controlProperties>
+            <text>Item%20X%20of%20Y</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::StickyNote" x="759" y="56" w="398" h="473" measuredW="109" measuredH="123" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Any%20forced%20error%20correction%20on%20this%20screen%3F%20No%0AAny%20default%20behaviors%20%28capitalization%2C%20spelling%2C%20etc%29%20-%20Capitalization%20-%20Sentence%2C%20Spelling%20-%20On.%0A%20%0AMay%20be%20moving%20to%20phrase%20based%20testing%2C%20instead%20of%20paragraph%20based%0A%20%0AVery%20limited%20space%20in%20landscape%20mode%20on%20iPhone%20once%20keyboard%20is%20displayed.%0A%20%0AMultiple%20source%20selection%3F%20Multiple%20phrases%2C%20each%20participant%20gets%20same%20sets%20of%20phrases.%0A%20%0ADoes%20scrolling%20time%20in%20source%20effect%20timing%20and%20how%20do%20we%20account%20for%20that%0A%20%20%20%20Overall%20time%20on%20screen%20-vs-%20time%20with%20input%20box%20focused%3F%20%20NA%20with%20phrases%0A%20%0ACan%27t%20quit%20at%20this%20point%2C%20protected%20exit%20mechanism%0A%20%0A%20%0ACan%20we%20capture%20auto-corrected%20text%2C%20auto-entered%20text%3F%20%20-%20Research%0A%20%0A%20%0A%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

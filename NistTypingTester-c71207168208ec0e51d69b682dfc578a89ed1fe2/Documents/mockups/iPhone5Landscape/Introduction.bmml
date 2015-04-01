@@ -1,0 +1,53 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="645" measuredH="325" mockupW="573" mockupH="282">
+  <controls>
+    <control controlID="53" controlTypeID="__group__" x="72" y="43" w="573" h="282" measuredW="688" measuredH="282" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="573" h="282" measuredW="573" measuredH="282" zOrder="0" locked="false" isInGroup="53">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="573" measuredH="282" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <model>IPhone5</model>
+                <orientation>landscape</orientation>
+                <topBar>false</topBar>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::TextArea" x="84" y="63" w="404" h="194" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <state>disabled</state>
+                <text>On%20the%20following%20screens%20you%20will%20be%20tasked%20with%20memorizing%20and%20recalling%20several%20random%20character%20strings..%0A%20%0AWhen%20you%20are%20ready%20press%20the%20%27Start%27%20button%20in%20the%20upper%20right%20corner%20of%20the%20screen.</text>
+                <verticalScrollbar>true</verticalScrollbar>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="__group__" x="84" y="28" w="404" h="35" measuredW="404" measuredH="35" zOrder="1" locked="false" isInGroup="0">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="__group__" x="0" y="0" w="404" h="35" measuredW="404" measuredH="35" zOrder="0" locked="false" isInGroup="5">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="404" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="153" y="7" w="125" h="-1" measuredW="71" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+                      <controlProperties>
+                        <text>Introduction</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="289" y="4" w="88" h="-1" measuredW="50" measuredH="27" zOrder="1" locked="false" isInGroup="5">
+                  <controlProperties>
+                    <direction>center</direction>
+                    <href>Memorize%26bm%3BMemorize.bmml%26bm%3BMemorize.bmml%26bm%3BMemorize.bmml</href>
+                    <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22373%2C32%2C461%2C59%22%20href%3D%22Memorize.bmml%22%20alt%3D%22Memorize%22%20id%3D%221%22/%3E</map>
+                    <text>Start</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CallOut" x="248" y="186" w="-1" h="-1" measuredW="168" measuredH="40" zOrder="1" locked="false" isInGroup="53">
+          <controlProperties>
+            <text>instructions_iphone.html</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

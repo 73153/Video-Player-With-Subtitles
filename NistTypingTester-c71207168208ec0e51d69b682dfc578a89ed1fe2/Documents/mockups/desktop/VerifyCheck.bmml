@@ -1,0 +1,72 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="820" measuredH="456" mockupW="655" mockupH="414">
+  <controls>
+    <control controlID="7" controlTypeID="__group__" x="165" y="42" w="655" h="414" measuredW="655" measuredH="414" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="655" h="414" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="7">
+          <controlProperties>
+            <close>true</close>
+            <dragger>true</dragger>
+            <maximizeRestore>true</maximizeRestore>
+            <minimize>true</minimize>
+            <text>Password%20Study</text>
+            <topheight>26</topheight>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::MenuBar" x="0" y="25" w="655" h="30" measuredW="105" measuredH="29" zOrder="1" locked="false" isInGroup="7">
+          <controlProperties>
+            <text>File%2C%20%20Help</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="0" y="55" w="655" h="32" measuredW="655" measuredH="32" zOrder="2" locked="false" isInGroup="7">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="655" h="32" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="30" y="7" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <color>10066329</color>
+                <icon>GearIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="9" y="7" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="2">
+              <controlProperties>
+                <color>13421772</color>
+                <icon>ContactIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="306" y="218" w="-1" h="-1" measuredW="372" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Please%20enter%20the%20string%20that%20you%20memorized%20in%20the%20space%20below.</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="466" y="394" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Entry1%26bm%3BEntry1.bmml%26bm%3BEntry1.bmml%26bm%3BEntry1.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22301%2C352%2C354%2C379%22%20href%3D%22Entry1.bmml%22%20alt%3D%22Entry1%22%20id%3D%2222%22/%3E</map>
+        <text>Start</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::TextInput" x="306" y="254" w="372" h="-1" measuredW="65" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%23%23%23%23%23%23</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::IconLabel" x="434" y="295" w="-1" h="-1" measuredW="45" measuredH="39" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Csmall</icon>
+        <text>Correct</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::IconLabel" x="501" y="295" w="-1" h="-1" measuredW="57" measuredH="39" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <icon>XIcon%7Csmall</icon>
+        <text>InCorrect</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

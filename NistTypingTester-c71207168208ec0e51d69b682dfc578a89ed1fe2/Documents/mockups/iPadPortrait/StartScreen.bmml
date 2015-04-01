@@ -1,0 +1,42 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1318" measuredH="1230" mockupW="978" mockupH="1230">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="646" y="599" w="366" h="-1" measuredW="79" measuredH="26" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="753" y="563" w="-1" h="-1" measuredW="153" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enter%20Participant%20Number%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="803" y="640" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ReadyScreen%26bm%3BReadyScreen.bmml%26bm%3BReadyScreen.bmml%26bm%3BReadyScreen.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22463%2C640%2C516%2C667%22%20href%3D%22ReadyScreen.bmml%22%20alt%3D%22ReadyScreen%22%20id%3D%223%22/%3E</map>
+        <text>Start</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="451" y="129" w="46" h="42" measuredW="46" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Settings%26bm%3BSettings.bmml%26bm%3BSettings.bmml%26bm%3BSettings.bmml</href>
+        <icon>GearIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22111%2C129%2C157%2C171%22%20href%3D%22Settings.bmml%22%20alt%3D%22Settings%22%20id%3D%224%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Component" x="340" y="0" w="978" h="1230" measuredW="978" measuredH="1230" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1" x="105" y="103" w="768" h="19"/>
+        <override controlID="-1"/>
+        <src>./assets/iPads.bmml#iPad%20Portrait</src>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::CallOut" x="976" y="765" w="-1" h="-1" measuredW="211" measuredH="39" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Disabled%20unless%20valid%20%23%20entered</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Arrow" x="847" y="650" w="-1" h="-1" measuredW="150" measuredH="100" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

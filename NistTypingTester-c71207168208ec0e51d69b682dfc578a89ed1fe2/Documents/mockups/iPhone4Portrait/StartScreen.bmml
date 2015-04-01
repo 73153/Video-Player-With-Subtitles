@@ -1,0 +1,107 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="915" measuredH="574" mockupW="742" mockupH="525">
+  <controls>
+    <control controlID="20" controlTypeID="__group__" x="173" y="49" w="282" h="510" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="20">
+          <controlProperties>
+            <model>IPhone4</model>
+            <topBar>false</topBar>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="48" y="201" w="186" h="-1" measuredW="79" measuredH="26" zOrder="1" locked="false" isInGroup="20"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="66" y="173" w="-1" h="-1" measuredW="151" measuredH="21" zOrder="2" locked="false" isInGroup="20">
+          <controlProperties>
+            <text>Enter%20Participant%20Number</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="__group__" x="27" y="75" w="229" h="35" measuredW="229" measuredH="35" zOrder="3" locked="false" isInGroup="20">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="229" h="35" measuredW="229" measuredH="35" zOrder="0" locked="false" isInGroup="6">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="229" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="86" y="7" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Welcome</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="169" y="4" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="1" locked="false" isInGroup="6">
+              <controlProperties>
+                <href>ReadyScreen%26bm%3BReadyScreen.bmml%26bm%3BReadyScreen.bmml%26bm%3BReadyScreen.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22196%2C79%2C249%2C106%22%20href%3D%22ReadyScreen.bmml%22%20alt%3D%22ReadyScreen%22%20id%3D%221%22/%3E</map>
+                <text>Start</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="6" y="1" w="46" h="33" measuredW="46" measuredH="27" zOrder="2" locked="false" isInGroup="6">
+              <controlProperties>
+                <href>Settings%26bm%3BSettings.bmml%26bm%3BSettings.bmml%26bm%3BSettings.bmml</href>
+                <icon>GearIcon%7Csmall</icon>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C76%2C79%2C109%22%20href%3D%22Settings.bmml%22%20alt%3D%22Settings%22%20id%3D%222%22/%3E</map>
+                <menuIcon>false</menuIcon>
+                <text/>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="21" controlTypeID="__group__" x="499" y="64" w="282" h="510" measuredW="282" measuredH="510" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="21">
+          <controlProperties>
+            <model>IPhone4</model>
+            <topBar>false</topBar>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="48" y="201" w="186" h="-1" measuredW="79" measuredH="26" zOrder="1" locked="false" isInGroup="21"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="66" y="173" w="-1" h="-1" measuredW="151" measuredH="21" zOrder="2" locked="false" isInGroup="21">
+          <controlProperties>
+            <text>Enter%20Participant%20Number</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="27" y="266" w="-1" h="-1" measuredW="227" measuredH="160" zOrder="3" locked="false" isInGroup="21"/>
+        <control controlID="7" controlTypeID="__group__" x="27" y="75" w="229" h="35" measuredW="357" measuredH="130" zOrder="4" locked="false" isInGroup="21">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="229" h="35" measuredW="229" measuredH="35" zOrder="0" locked="false" isInGroup="7">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="229" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="86" y="7" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Welcome</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="166" y="4" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="1" locked="false" isInGroup="7">
+              <controlProperties>
+                <href>ReadyScreen%26bm%3BReadyScreen.bmml%26bm%3BReadyScreen.bmml%26bm%3BReadyScreen.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22519%2C94%2C572%2C121%22%20href%3D%22ReadyScreen.bmml%22%20alt%3D%22ReadyScreen%22%20id%3D%221%22/%3E</map>
+                <text>Start</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="6" y="2" w="46" h="33" measuredW="46" measuredH="27" zOrder="2" locked="false" isInGroup="7">
+              <controlProperties>
+                <href>Settings%26bm%3BSettings.bmml%26bm%3BSettings.bmml%26bm%3BSettings.bmml</href>
+                <icon>GearIcon%7Csmall</icon>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22359%2C92%2C405%2C125%22%20href%3D%22Settings.bmml%22%20alt%3D%22Settings%22%20id%3D%222%22/%3E</map>
+                <menuIcon>false</menuIcon>
+                <text/>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Arrow" x="727" y="154" w="117" h="106" measuredW="150" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::CallOut" x="796" y="262" w="119" h="115" measuredW="171" measuredH="39" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Disabled%20until%20Valid%20entry%0A%20%0AAll%20character%20sets%0A%3E%201%20length</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

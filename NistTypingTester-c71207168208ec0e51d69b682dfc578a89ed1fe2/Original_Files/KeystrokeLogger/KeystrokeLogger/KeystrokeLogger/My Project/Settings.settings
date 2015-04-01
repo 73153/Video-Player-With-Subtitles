@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="TargetStrings" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;5c2'Qe&lt;/string&gt;
+  &lt;string&gt;3.bH1o&lt;/string&gt;
+  &lt;string&gt;ua7t?C2#&lt;/string&gt;
+  &lt;string&gt;m3)61fHw&lt;/string&gt;
+  &lt;string&gt;q80&amp;lt;U/C2mv&lt;/string&gt;
+  &lt;string&gt;p4d46&amp;amp;3TxY&lt;/string&gt;
+  &lt;string&gt;d51)u4;X3wrf&lt;/string&gt;
+  &lt;string&gt;6n04%Ei'Hm3V&lt;/string&gt;
+  &lt;string&gt;4i_55fQ$2Mnh30&lt;/string&gt;
+  &lt;string&gt;m#o)fp^2aRf207&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="OutputDirectory" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\KeystrokeLogs</Value>
+    </Setting>
+    <Setting Name="IncludeHooking" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ClearClipboard" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="OnlyDoOneLoop" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

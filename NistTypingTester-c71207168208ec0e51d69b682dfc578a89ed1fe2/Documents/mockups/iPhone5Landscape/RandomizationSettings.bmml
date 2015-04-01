@@ -1,0 +1,43 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="709" measuredH="337" mockupW="573" mockupH="282">
+  <controls>
+    <control controlID="33" controlTypeID="__group__" x="136" y="55" w="573" h="282" measuredW="573" measuredH="282" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="573" measuredH="282" zOrder="0" locked="false" isInGroup="33">
+          <controlProperties>
+            <model>IPhone5</model>
+            <orientation>landscape</orientation>
+            <topBar>false</topBar>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="179" y="85" w="-1" h="-1" measuredW="215" measuredH="68" zOrder="2" locked="false" isInGroup="33">
+          <controlProperties>
+            <text>v%20Random%20Seed%0AUse%20Seed%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="__group__" x="84" y="29" w="409" h="35" measuredW="409" measuredH="35" zOrder="1" locked="false" isInGroup="33">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="409" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="6"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="7" y="4" w="109" h="-1" measuredW="61" measuredH="27" zOrder="1" locked="false" isInGroup="6">
+              <controlProperties>
+                <direction>left</direction>
+                <text>Cancel</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="309" y="4" w="89" h="-1" measuredW="50" measuredH="27" zOrder="2" locked="false" isInGroup="6">
+              <controlProperties>
+                <direction>center</direction>
+                <text>Done</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="130" y="7" w="155" h="-1" measuredW="87" measuredH="21" zOrder="3" locked="false" isInGroup="6">
+              <controlProperties>
+                <text>Randomization</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="253" y="122" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="3" locked="false" isInGroup="33"/>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

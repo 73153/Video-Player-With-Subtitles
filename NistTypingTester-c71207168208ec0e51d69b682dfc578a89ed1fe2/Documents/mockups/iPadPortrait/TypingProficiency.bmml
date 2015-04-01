@@ -1,0 +1,47 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1318" measuredH="1274" mockupW="978" mockupH="1230">
+  <controls>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="458" y="251" w="749" h="270" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Nullam%20eu%20sem%20nec%20nisl%20sollicitudin%20congue.%20Nulla%20facilisi.%20Cras%20in%20iaculis%20sem.%20Vivamus%20lacinia%20justo%20et%20luctus%20euismod.%20Mauris%20egestas%20turpis%20in%20bibendum%20accumsan.%20Vivamus%20condimentum%20aliquam%20diam%2C%20condimentum%20convallis%20tellus%20hendrerit%20sit%20amet.%20Integer%20semper%20nec%20nibh%20id%20dictum.%20Aliquam%20massa%20erat%2C%20porta%20vitae%20consectetur%20vel%2C%20malesuada%20non%20metus.%20Ut%20odio%20tortor%2C%20imperdiet%20ut%20dolor%20at%2C%20convallis%20vestibulum%20turpis.%20Duis%20placerat%2C%20leo%20sit%20amet%20ultrices%20rutrum%2C%20eros%20eros%20rutrum%20libero%2C%20ut%20pulvinar%20velit%20magna%20ut%20augue.%20Etiam%20ut%20mi%20sit%20amet%20elit%20consequat%20iaculis.%20Suspendisse%20eget%20sem%20erat.%20Donec%20ultricies%20est%20at%20lectus%20viverra%20posuere.</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="458" y="536" w="742" h="297" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="623" y="210" w="-1" h="-1" measuredW="412" measuredH="26" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Please%20enter%20the%20text%20below%20in%20the%20space%20provided.</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="800" y="858" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Introduction%26bm%3BIntroduction.bmml%26bm%3BIntroduction.bmml%26bm%3BIntroduction.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22460%2C814%2C513%2C841%22%20href%3D%22Introduction.bmml%22%20alt%3D%22Introduction%22%20id%3D%228%22/%3E</map>
+        <text>Done</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Component" x="340" y="44" w="978" h="1230" measuredW="978" measuredH="1230" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1" x="105" y="103" w="768" h="19"/>
+        <override controlID="-1"/>
+        <src>./assets/iPads.bmml#iPad%20Portrait</src>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Component" x="446" y="910" w="768" h="263" measuredW="768" measuredH="263" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/iPad%20Keyboards.bmml#ipad%20keyboard%20768x263</src>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::StickyNote" x="751" y="612" w="178" h="123" measuredW="109" measuredH="123" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Capitalize%20-%20Sentence%0ASpell%20Check%20-%20Yes</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="779" y="178" w="-1" h="-1" measuredW="94" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Item%20X%20of%20Y</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

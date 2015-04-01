@@ -1,0 +1,78 @@
+{
+    "code": 200,
+    "meta": {
+        "code": 200
+    },
+    "response": {
+        "deals": [
+        {
+            "id": 32373,
+            "date_added": "2011-01-13 12:12:50",
+            "end_date": "2011-01-14 10:00:00",
+            "active": 1,
+            "discount": {
+                "raw": 71,
+                "formatted": "71%"
+            },
+            "price": {
+                "raw": "85.00",
+                "formatted": "$85"
+            },
+            "value": {
+                "raw": "300.00",
+                "formatted": "$300"
+            },
+            "purchased": 82,
+            "left": null,
+            "title": "$85 For $300 Babyface Facial At Park Avenue MedSpa",
+            "yipit_title": "71% off Babyface Facial",
+            "url": "http://yipit.com/aff/click/?deal=AvwTADtE&key=F374EFbM",
+            "yipit_url": "http://yipit.com/new-york/livingsocial/85-for-300-babyface-facial-at-park-avenue-medspa/",
+            "images": {
+                "image_big": "http://d22nv2k05ynu7x.cloudfront.net/deal_images/deal/85-for-300-babyface-facial-at-park-avenue-medspa-1294920769_display_image.jpg",
+                "image_small": "http://d22nv2k05ynu7x.cloudfront.net/deal_images/deal/85-for-300-babyface-facial-at-park-avenue-medspa-1294920769_small_image.jpg"
+            },
+            "division": {
+                "slug": "new-york",
+                "name": "New York",
+                "active": 1,
+                "time_zone_diff": -4,
+                "lat": "40.7142690000000000",
+                "lon": "-74.0059730000000000",
+                "url": "http://yipit.com/new-york/"
+            },
+            "tags": [
+            {
+                "name": "Facial",
+                "slug": "facial",
+                "url": "http://yipit.com/new-york/deals/facial/"
+            },
+            {
+                "name": "Spa",
+                "slug": "spa",
+                "url": "http://yipit.com/new-york/deals/spa/"
+            }
+            ],
+            "business": {
+                "name": "Park Avenue MedSpa",
+                "url": "",
+                "locations": [
+                {
+                    "address": "565 Park Ave",
+                    "locality": "New York",
+                    "phone": "212-593-8821",
+                    "lat": null,
+                    "lon": null
+                }
+                ]
+            },
+            "source": {
+                "name": "LivingSocial",
+                "slug": "livingsocial",
+                "paid": 0,
+                "url": "http://yipit.com/new-york/livingsocial"
+            }
+        }
+        ]
+    }
+}

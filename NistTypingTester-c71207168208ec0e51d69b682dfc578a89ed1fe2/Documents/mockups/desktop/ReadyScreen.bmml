@@ -1,0 +1,68 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1098" measuredH="776" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextArea" x="86" y="104" w="996" h="507" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hello</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="532" y="626" w="-1" h="-1" measuredW="114" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Participant%20Number</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="547" y="647" w="-1" h="-1" measuredW="84" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%23%23%23%23%23%23%23%23%23%23</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="596" y="709" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>TypingProficiency%26bm%3BTypingProficiency.bmml%26bm%3BTypingProficiency.bmml%26bm%3BTypingProficiency.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22522%2C701%2C572%2C728%22%20href%3D%22TypingProficiency.bmml%22%20alt%3D%22TypingProficiency%22%20id%3D%2214%22/%3E</map>
+        <text>Next</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="532" y="709" w="-1" h="-1" measuredW="51" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>StartScreen%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22458%2C701%2C509%2C728%22%20href%3D%22StartScreen.bmml%22%20alt%3D%22StartScreen%22%20id%3D%2215%22/%3E</map>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="__group__" x="74" y="8" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="16">
+          <controlProperties>
+            <close>true</close>
+            <dragger>true</dragger>
+            <maximizeRestore>true</maximizeRestore>
+            <minimize>true</minimize>
+            <text>Password%20Study</text>
+            <topheight>26</topheight>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::MenuBar" x="0" y="22" w="1024" h="31" measuredW="105" measuredH="29" zOrder="1" locked="false" isInGroup="16">
+          <controlProperties>
+            <text>File%2C%20%20Help</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="0" y="53" w="1024" h="35" measuredW="1024" measuredH="35" zOrder="2" locked="false" isInGroup="16">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1024" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="46" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <icon>GearIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="14" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="2">
+              <controlProperties>
+                <icon>ContactIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,41 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1318" measuredH="1230" mockupW="978" mockupH="1230">
+  <controls>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Component" x="340" y="0" w="978" h="1230" measuredW="978" measuredH="1230" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1" x="105" y="103" w="768" h="19"/>
+        <override controlID="-1"/>
+        <src>./assets/iPads.bmml#iPad%20Portrait</src>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="452" y="134" w="753" h="851" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="772" y="1010" w="-1" h="-1" measuredW="114" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Participant%20Number</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="772" y="1038" w="-1" h="-1" measuredW="109" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%23%23%23%23%23%23%23%23%23%23%23%23%23</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="831" y="1067" w="-1" h="-1" measuredW="55" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>TypingProficiency%26bm%3BTypingProficiency.bmml%26bm%3BTypingProficiency.bmml%26bm%3BTypingProficiency.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22491%2C1067%2C546%2C1094%22%20href%3D%22TypingProficiency.bmml%22%20alt%3D%22TypingProficiency%22%20id%3D%229%22/%3E</map>
+        <text>Begin</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="772" y="1067" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>StartScreen%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22432%2C1067%2C480%2C1094%22%20href%3D%22StartScreen.bmml%22%20alt%3D%22StartScreen%22%20id%3D%2210%22/%3E</map>
+        <text>Quit</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::CallOut" x="765" y="386" w="-1" h="-1" measuredW="104" measuredH="39" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>welcome.html</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,4 @@
+        <h1>Enter</h1>
+        <p>
+        On this screen you must enter the password the number of times specified by the Round number at the top of the screen. The password is not visible on this screen. During the Enter task, you cannot go back to the Verify or Practice tasks. There is no '&lt;' button on this screen.
+        </p>

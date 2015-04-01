@@ -1,0 +1,293 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2C4EC08A16D0866200ABB787 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C4EC08916D0866200ABB787 /* UIKit.framework */; };
+		2C4EC08C16D0866200ABB787 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C4EC08B16D0866200ABB787 /* Foundation.framework */; };
+		2C4EC08E16D0866200ABB787 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C4EC08D16D0866200ABB787 /* CoreGraphics.framework */; };
+		2C4EC09416D0866200ABB787 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2C4EC09216D0866200ABB787 /* InfoPlist.strings */; };
+		2C4EC09616D0866200ABB787 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C4EC09516D0866200ABB787 /* main.m */; };
+		2C4EC09A16D0866200ABB787 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C4EC09916D0866200ABB787 /* AppDelegate.m */; };
+		2C4EC09C16D0866200ABB787 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C4EC09B16D0866200ABB787 /* Default.png */; };
+		2C4EC09E16D0866200ABB787 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C4EC09D16D0866200ABB787 /* Default@2x.png */; };
+		2C4EC0A016D0866200ABB787 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C4EC09F16D0866200ABB787 /* Default-568h@2x.png */; };
+		2C4EC0A816D0867900ABB787 /* TextValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C4EC0A716D0867900ABB787 /* TextValidator.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2C4EC08616D0866200ABB787 /* TextValidator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TextValidator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C4EC08916D0866200ABB787 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2C4EC08B16D0866200ABB787 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		2C4EC08D16D0866200ABB787 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2C4EC09116D0866200ABB787 /* TextValidator-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TextValidator-Info.plist"; sourceTree = "<group>"; };
+		2C4EC09316D0866200ABB787 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2C4EC09516D0866200ABB787 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2C4EC09716D0866200ABB787 /* TextValidator-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TextValidator-Prefix.pch"; sourceTree = "<group>"; };
+		2C4EC09816D0866200ABB787 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		2C4EC09916D0866200ABB787 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		2C4EC09B16D0866200ABB787 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		2C4EC09D16D0866200ABB787 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		2C4EC09F16D0866200ABB787 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		2C4EC0A616D0867900ABB787 /* TextValidator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextValidator.h; sourceTree = "<group>"; };
+		2C4EC0A716D0867900ABB787 /* TextValidator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextValidator.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2C4EC08316D0866200ABB787 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C4EC08A16D0866200ABB787 /* UIKit.framework in Frameworks */,
+				2C4EC08C16D0866200ABB787 /* Foundation.framework in Frameworks */,
+				2C4EC08E16D0866200ABB787 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2C4EC07D16D0866200ABB787 = {
+			isa = PBXGroup;
+			children = (
+				2C4EC08F16D0866200ABB787 /* TextValidator */,
+				2C4EC08816D0866200ABB787 /* Frameworks */,
+				2C4EC08716D0866200ABB787 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2C4EC08716D0866200ABB787 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2C4EC08616D0866200ABB787 /* TextValidator.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2C4EC08816D0866200ABB787 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2C4EC08916D0866200ABB787 /* UIKit.framework */,
+				2C4EC08B16D0866200ABB787 /* Foundation.framework */,
+				2C4EC08D16D0866200ABB787 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2C4EC08F16D0866200ABB787 /* TextValidator */ = {
+			isa = PBXGroup;
+			children = (
+				2C4EC09816D0866200ABB787 /* AppDelegate.h */,
+				2C4EC09916D0866200ABB787 /* AppDelegate.m */,
+				2C4EC0A616D0867900ABB787 /* TextValidator.h */,
+				2C4EC0A716D0867900ABB787 /* TextValidator.m */,
+				2C4EC09016D0866200ABB787 /* Supporting Files */,
+			);
+			path = TextValidator;
+			sourceTree = "<group>";
+		};
+		2C4EC09016D0866200ABB787 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2C4EC09116D0866200ABB787 /* TextValidator-Info.plist */,
+				2C4EC09216D0866200ABB787 /* InfoPlist.strings */,
+				2C4EC09516D0866200ABB787 /* main.m */,
+				2C4EC09716D0866200ABB787 /* TextValidator-Prefix.pch */,
+				2C4EC09B16D0866200ABB787 /* Default.png */,
+				2C4EC09D16D0866200ABB787 /* Default@2x.png */,
+				2C4EC09F16D0866200ABB787 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2C4EC08516D0866200ABB787 /* TextValidator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2C4EC0A316D0866200ABB787 /* Build configuration list for PBXNativeTarget "TextValidator" */;
+			buildPhases = (
+				2C4EC08216D0866200ABB787 /* Sources */,
+				2C4EC08316D0866200ABB787 /* Frameworks */,
+				2C4EC08416D0866200ABB787 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TextValidator;
+			productName = TextValidator;
+			productReference = 2C4EC08616D0866200ABB787 /* TextValidator.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2C4EC07E16D0866200ABB787 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = eddieios;
+			};
+			buildConfigurationList = 2C4EC08116D0866200ABB787 /* Build configuration list for PBXProject "TextValidator" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2C4EC07D16D0866200ABB787;
+			productRefGroup = 2C4EC08716D0866200ABB787 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2C4EC08516D0866200ABB787 /* TextValidator */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2C4EC08416D0866200ABB787 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C4EC09416D0866200ABB787 /* InfoPlist.strings in Resources */,
+				2C4EC09C16D0866200ABB787 /* Default.png in Resources */,
+				2C4EC09E16D0866200ABB787 /* Default@2x.png in Resources */,
+				2C4EC0A016D0866200ABB787 /* Default-568h@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2C4EC08216D0866200ABB787 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C4EC09616D0866200ABB787 /* main.m in Sources */,
+				2C4EC09A16D0866200ABB787 /* AppDelegate.m in Sources */,
+				2C4EC0A816D0867900ABB787 /* TextValidator.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		2C4EC09216D0866200ABB787 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2C4EC09316D0866200ABB787 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2C4EC0A116D0866200ABB787 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		2C4EC0A216D0866200ABB787 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2C4EC0A416D0866200ABB787 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TextValidator/TextValidator-Prefix.pch";
+				INFOPLIST_FILE = "TextValidator/TextValidator-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		2C4EC0A516D0866200ABB787 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TextValidator/TextValidator-Prefix.pch";
+				INFOPLIST_FILE = "TextValidator/TextValidator-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2C4EC08116D0866200ABB787 /* Build configuration list for PBXProject "TextValidator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C4EC0A116D0866200ABB787 /* Debug */,
+				2C4EC0A216D0866200ABB787 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2C4EC0A316D0866200ABB787 /* Build configuration list for PBXNativeTarget "TextValidator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C4EC0A416D0866200ABB787 /* Debug */,
+				2C4EC0A516D0866200ABB787 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2C4EC07E16D0866200ABB787 /* Project object */;
+}

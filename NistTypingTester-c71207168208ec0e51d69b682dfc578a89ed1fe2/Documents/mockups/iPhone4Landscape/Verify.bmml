@@ -1,0 +1,143 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="851" measuredH="628" mockupW="678" mockupH="579">
+  <controls>
+    <control controlID="87" controlTypeID="__group__" x="173" y="49" w="510" h="282" measuredW="510" measuredH="282" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="510" measuredH="282" zOrder="0" locked="false" isInGroup="87">
+          <controlProperties>
+            <model>IPhone4</model>
+            <orientation>landscape</orientation>
+            <topBar>false</topBar>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="211" y="84" w="-1" h="-1" measuredW="68" measuredH="21" zOrder="2" locked="false" isInGroup="87">
+          <controlProperties>
+            <text>Item%20X%20of%20Y</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="175" y="137" w="-1" h="-1" measuredW="140" measuredH="21" zOrder="3" locked="false" isInGroup="87">
+          <controlProperties>
+            <text>Please%20enter%20the%20string%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="160" y="111" w="170" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="87"/>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="175" y="160" w="-1" h="-1" measuredW="145" measuredH="21" zOrder="5" locked="false" isInGroup="87">
+          <controlProperties>
+            <text>Press%20the%20%27Check%27%20button</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="203" y="181" w="-1" h="-1" measuredW="83" measuredH="21" zOrder="6" locked="false" isInGroup="87">
+          <controlProperties>
+            <text>when%20finished.</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="__group__" x="83" y="27" w="344" h="35" measuredW="344" measuredH="35" zOrder="1" locked="false" isInGroup="87">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="344" h="35" measuredW="344" measuredH="35" zOrder="0" locked="false" isInGroup="10">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="344" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="129" y="7" w="53" h="-1" measuredW="35" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Verify</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="270" y="4" w="63" h="-1" measuredW="52" measuredH="27" zOrder="1" locked="false" isInGroup="10">
+              <controlProperties>
+                <direction>center</direction>
+                <href>VerifyCheck%26bm%3BVerifyCheck.bmml%26bm%3BVerifyCheck.bmml%26bm%3BVerifyCheck.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22353%2C31%2C416%2C58%22%20href%3D%22VerifyCheck.bmml%22%20alt%3D%22VerifyCheck%22%20id%3D%221%22/%3E</map>
+                <text>Begin</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="6" y="4" w="72" h="-1" measuredW="68" measuredH="27" zOrder="2" locked="false" isInGroup="10">
+              <controlProperties>
+                <direction>left</direction>
+                <href>ForcedPractice%26bm%3BForcedPractice.bmml%26bm%3BForcedPractice.bmml%26bm%3BForcedPractice.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2289%2C31%2C161%2C58%22%20href%3D%22ForcedPractice.bmml%22%20alt%3D%22ForcedPractice%22%20id%3D%222%22/%3E</map>
+                <text>Practice</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="88" controlTypeID="__group__" x="173" y="346" w="510" h="282" measuredW="510" measuredH="282" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="510" measuredH="282" zOrder="0" locked="false" isInGroup="88">
+          <controlProperties>
+            <model>IPhone4</model>
+            <orientation>landscape</orientation>
+            <topBar>false</topBar>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="211" y="84" w="-1" h="-1" measuredW="68" measuredH="21" zOrder="2" locked="false" isInGroup="88">
+          <controlProperties>
+            <text>Item%20X%20of%20Y</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="175" y="137" w="-1" h="-1" measuredW="140" measuredH="21" zOrder="3" locked="false" isInGroup="88">
+          <controlProperties>
+            <text>Please%20enter%20the%20string%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="160" y="111" w="170" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="88"/>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="183" y="158" w="-1" h="-1" measuredW="145" measuredH="21" zOrder="5" locked="false" isInGroup="88">
+          <controlProperties>
+            <text>Press%20the%20%27Check%27%20button</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="211" y="179" w="-1" h="-1" measuredW="83" measuredH="21" zOrder="6" locked="false" isInGroup="88">
+          <controlProperties>
+            <text>when%20finished.</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="__group__" x="83" y="27" w="344" h="35" measuredW="344" measuredH="35" zOrder="1" locked="false" isInGroup="88">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="344" h="35" measuredW="344" measuredH="35" zOrder="0" locked="false" isInGroup="10">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="344" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="129" y="7" w="53" h="-1" measuredW="35" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Verify</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="281" y="4" w="53" h="-1" measuredW="52" measuredH="27" zOrder="1" locked="false" isInGroup="10">
+              <controlProperties>
+                <direction>center</direction>
+                <href>VerifyCheck%26bm%3BVerifyCheck.bmml%26bm%3BVerifyCheck.bmml%26bm%3BVerifyCheck.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22364%2C328%2C417%2C355%22%20href%3D%22VerifyCheck.bmml%22%20alt%3D%22VerifyCheck%22%20id%3D%221%22/%3E</map>
+                <text>Begin</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="6" y="4" w="72" h="-1" measuredW="68" measuredH="27" zOrder="2" locked="false" isInGroup="10">
+              <controlProperties>
+                <direction>left</direction>
+                <href>ForcedPractice%26bm%3BForcedPractice.bmml%26bm%3BForcedPractice.bmml%26bm%3BForcedPractice.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2289%2C328%2C161%2C355%22%20href%3D%22ForcedPractice.bmml%22%20alt%3D%22ForcedPractice%22%20id%3D%222%22/%3E</map>
+                <text>Practice</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="83" y="144" w="-1" h="-1" measuredW="344" measuredH="114" zOrder="7" locked="false" isInGroup="88">
+          <controlProperties>
+            <orientation>landscape</orientation>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Arrow" x="491" y="166" w="223" h="57" measuredW="150" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::CallOut" x="702" y="239" w="149" h="75" measuredW="149" measuredH="39" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Capitalization%20-%20None%0ASpell%20Check%20-%20No%0AMask%20-%20No</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

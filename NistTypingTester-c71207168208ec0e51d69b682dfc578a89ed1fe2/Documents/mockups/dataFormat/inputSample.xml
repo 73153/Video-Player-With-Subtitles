@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inputBundle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:./typingInputFile.xsd">
+    <filters>
+        <filterItem filterId="testData">Test Data</filterItem>
+        <filterItem filterId="6char">6 Character Strings</filterItem>
+    </filters>
+    <proficiencyGroups>
+        <proficiencyGroup groupId="1">
+            <string>The quick brown fox jumped over the lazy dogs.</string>
+        </proficiencyGroup>
+    </proficiencyGroups>
+    <memorizationInputs>
+        <memorizationInput inputId="1" date="2013-08-08">
+            <value>ABCD12</value>
+            <filter>testData</filter>
+            <filter>6char</filter>
+        </memorizationInput>
+    </memorizationInputs>
+</inputBundle>

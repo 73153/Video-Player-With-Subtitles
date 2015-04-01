@@ -1,0 +1,59 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1077" measuredH="776" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="337" y="113" w="-1" h="-1" measuredW="456" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Please%20enter%20as%20many%20of%20the%20strings%20as%20you%20can%20recall%20in%20the%20spaces%20provided</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Button" x="540" y="713" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Finish%26bm%3BFinish.bmml%26bm%3BFinish.bmml%26bm%3BFinish.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22487%2C705%2C537%2C732%22%20href%3D%22Finish.bmml%22%20alt%3D%22Finish%22%20id%3D%2224%22/%3E</map>
+        <text>Next</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::TextInput" x="330" y="165" w="459" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1049" y="149" w="-1" h="557" measuredW="16" measuredH="100" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::TextInput" x="330" y="206" w="459" h="-1" measuredW="79" measuredH="26" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::TextInput" x="330" y="241" w="459" h="-1" measuredW="79" measuredH="26" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::TextInput" x="330" y="282" w="459" h="-1" measuredW="79" measuredH="26" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::TextInput" x="330" y="317" w="459" h="-1" measuredW="79" measuredH="26" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::TextInput" x="330" y="358" w="459" h="-1" measuredW="79" measuredH="26" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Canvas" x="65" y="149" w="1000" h="557" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="33" controlTypeID="__group__" x="53" y="8" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="33">
+          <controlProperties>
+            <close>true</close>
+            <dragger>true</dragger>
+            <maximizeRestore>true</maximizeRestore>
+            <minimize>true</minimize>
+            <text>Password%20Study</text>
+            <topheight>26</topheight>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::MenuBar" x="0" y="22" w="1024" h="31" measuredW="105" measuredH="29" zOrder="1" locked="false" isInGroup="33">
+          <controlProperties>
+            <text>File%2C%20%20Help</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="0" y="53" w="1024" h="35" measuredW="1024" measuredH="35" zOrder="2" locked="false" isInGroup="33">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1024" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="46" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <icon>GearIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="14" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="2">
+              <controlProperties>
+                <icon>ContactIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

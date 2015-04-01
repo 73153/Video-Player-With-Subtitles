@@ -1,0 +1,57 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="991" measuredH="613" mockupW="878" mockupH="573">
+  <controls>
+    <control controlID="36" controlTypeID="__group__" x="113" y="40" w="282" h="573" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="36">
+          <controlProperties>
+            <model>IPhone5</model>
+            <topBar>false</topBar>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="27" y="83" w="229" h="35" measuredW="229" measuredH="35" zOrder="1" locked="false" isInGroup="36">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="229" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="91" y="7" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Settings</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="4" y="4" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <direction>left</direction>
+                <href>StartScreen%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C87%2C92%2C114%22%20href%3D%22StartScreen.bmml%22%20alt%3D%22StartScreen%22%20id%3D%222%22/%3E</map>
+                <text>Cancel</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="173" y="4" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <direction>center</direction>
+                <href>StartScreen%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22200%2C87%2C250%2C114%22%20href%3D%22StartScreen.bmml%22%20alt%3D%22StartScreen%22%20id%3D%223%22/%3E</map>
+                <text>Done</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="34" y="147" w="-1" h="-1" measuredW="215" measuredH="278" zOrder="2" locked="false" isInGroup="36">
+          <controlProperties>
+            <hrefs>%2C%2CRandomizationSettings%26bm%3BRandomizationSettings.bmml%26bm%3BRandomizationSettings.bmml%26bm%3BRandomizationSettings.bmml%2C%2C%2C%2C%2C%2C</hrefs>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C211%2C249%2C240%22%20href%3D%22RandomizationSettings.bmml%22%20alt%3D%22RandomizationSettings%22%20id%3D%222%22/%3E%0A</map>
+            <text>Number%20of%20Strings%0ARandomize%20Strings%2C%20ON%0ARandomization%20Settings%2C%20%3E%0A6%20Character%20Strings%2C%20OFF%0A8%20Character%20Strings%2C%20ON%0A10%20Character%20Strings%2C%20ON%0A12%20Character%20Strings%2C%20ON%0A14%20Character%20Strings%2C%20ON%0A16%20Character%20Strings%2C%20OFF</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="175" y="152" w="62" h="-1" measuredW="23" measuredH="27" zOrder="3" locked="false" isInGroup="36">
+          <controlProperties>
+            <text>6</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::StickyNote" x="466" y="54" w="525" h="549" measuredW="109" measuredH="123" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Confirmed%20options%3A%0A%20%0A%23%20of%20items%0A%23%20of%20entries%20per%20item%0ARandomize%20string%20order%20%28T/F%29%0ARandom%20Seed%20for%20string%20order%0ARandomize%20string%20selection%20%28T/F%29%20%0ASelection%20Seed%0A%20%0ABe%20able%20to%20specify%20a%20%23%20of%20strings%20per%20criteria/filter.%20%20Same%20number%20of%20strings%20from%20each%20filter%20categories.%20%0ANo%20repeat%20of%20strings%0A%20%0APredefined%20sets%20of%20input%20string%20groups%20assignable%0A%20%0AReset%20Settings%20option%0A%20%0APotential%20Settings%3A%0A%20%0AChoice%20of%20input%20file%0A%20%0AInput%20file%0A%20%20%20-%20file%20format%0A%20%20%20-%20file%20%23%0A%20%20%20-%20added/changed%20files%20will%20affect%20randomization%20repeatability%0A%20%20%20%20%20%20%20%20-%20if%20multiple%20files%2C%20%23%20from%20each%20file%20or%201%20file%20to%20use%0A%20%0AExpanison%20for%20additional%20string%20lengths%20...%0A%20%0AMay%20be%20removing%206%20character%20strings%0A%20%0ACancel%20discards%20all%20changes%2C%20Done%20commits%20changes%0A%20%0APreserve%20settings%20between%20sessions</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

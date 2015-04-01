@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <numberOfEntities>2</numberOfEntities>
+  <repetitionsPerEntity>1</repetitionsPerEntity>
+  <forcedPracticeRounds>2</forcedPracticeRounds>
+  <verifyRounds>1</verifyRounds>
+  <randomOrder>false</randomOrder>
+  <useOrderSeed>false</useOrderSeed>
+  <orderSeed>0</orderSeed>
+  <randomSelection>false</randomSelection>
+  <useSelectionSeed>false</useSelectionSeed>
+  <selectionSeed>0</selectionSeed>
+  <useGroupId>true</useGroupId>
+  <groupId>3</groupId>
+  <quitString>I QUIT</quitString>
+  <skipString>SKIP THIS</skipString>
+  <showSkipButton>false</showSkipButton>
+  <showQuitButton>false</showQuitButton>
+  <showHideButton>false</showHideButton>
+  <disableFreePractice>true</disableFreePractice>
+  <disableFreePracticeTextBox>true</disableFreePracticeTextBox>
+</options>

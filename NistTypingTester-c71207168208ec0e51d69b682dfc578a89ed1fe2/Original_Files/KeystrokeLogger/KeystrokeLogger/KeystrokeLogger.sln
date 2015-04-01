@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KeystrokeLogger", "KeystrokeLogger\KeystrokeLogger.vbproj", "{A9A0CFC1-EF10-472F-BC90-8D535ED33C82}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HookTesting", "HookTesting\HookTesting.vbproj", "{8B37A8DE-539D-44FA-B845-17E8D87EFFB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9A0CFC1-EF10-472F-BC90-8D535ED33C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A0CFC1-EF10-472F-BC90-8D535ED33C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A0CFC1-EF10-472F-BC90-8D535ED33C82}.Debug|x86.ActiveCfg = Debug|x86
+		{A9A0CFC1-EF10-472F-BC90-8D535ED33C82}.Debug|x86.Build.0 = Debug|x86
+		{A9A0CFC1-EF10-472F-BC90-8D535ED33C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A0CFC1-EF10-472F-BC90-8D535ED33C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9A0CFC1-EF10-472F-BC90-8D535ED33C82}.Release|x86.ActiveCfg = Release|x86
+		{A9A0CFC1-EF10-472F-BC90-8D535ED33C82}.Release|x86.Build.0 = Release|x86
+		{8B37A8DE-539D-44FA-B845-17E8D87EFFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B37A8DE-539D-44FA-B845-17E8D87EFFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B37A8DE-539D-44FA-B845-17E8D87EFFB3}.Debug|x86.ActiveCfg = Debug|x86
+		{8B37A8DE-539D-44FA-B845-17E8D87EFFB3}.Debug|x86.Build.0 = Debug|x86
+		{8B37A8DE-539D-44FA-B845-17E8D87EFFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B37A8DE-539D-44FA-B845-17E8D87EFFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B37A8DE-539D-44FA-B845-17E8D87EFFB3}.Release|x86.ActiveCfg = Release|x86
+		{8B37A8DE-539D-44FA-B845-17E8D87EFFB3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

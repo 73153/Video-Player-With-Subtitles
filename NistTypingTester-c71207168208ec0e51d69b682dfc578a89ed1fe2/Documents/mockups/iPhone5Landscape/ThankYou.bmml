@@ -1,0 +1,57 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="717" measuredH="357" mockupW="573" mockupH="282">
+  <controls>
+    <control controlID="119" controlTypeID="__group__" x="144" y="75" w="573" h="282" measuredW="573" measuredH="282" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="573" measuredH="282" zOrder="0" locked="false" isInGroup="119">
+          <controlProperties>
+            <model>IPhone5</model>
+            <orientation>landscape</orientation>
+            <topBar>false</topBar>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="80" y="28" w="412" h="35" measuredW="412" measuredH="35" zOrder="1" locked="false" isInGroup="119">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="412" h="35" measuredW="412" measuredH="35" zOrder="0" locked="false" isInGroup="5">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="412" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="157" y="7" w="112" h="-1" measuredW="62" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Thank%20You</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="356" y="4" w="45" h="-1" measuredW="38" measuredH="27" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <direction>center</direction>
+                <href>StartScreen%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22436%2C32%2C481%2C59%22%20href%3D%22StartScreen.bmml%22%20alt%3D%22StartScreen%22%20id%3D%221%22/%3E</map>
+                <text>OK</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="6" controlTypeID="__group__" x="231" y="120" w="111" h="42" measuredW="111" measuredH="42" zOrder="3" locked="false" isInGroup="119">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="111" measuredH="21" zOrder="0" locked="false" isInGroup="6">
+              <controlProperties>
+                <text>Thank%20you%20for%20your</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="17" y="21" w="-1" h="-1" measuredW="76" measuredH="21" zOrder="1" locked="false" isInGroup="6">
+              <controlProperties>
+                <text>participation.</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="89" y="63" w="403" h="189" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="119"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::CallOut" x="457" y="272" w="-1" h="-1" measuredW="114" measuredH="39" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>thank_you.html</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

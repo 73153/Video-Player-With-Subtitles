@@ -1,0 +1,17 @@
+# XCode #
+#########
+*.pbxuser
+*.mode*
+xcuserdata
+project.xcworkspace
+*.xccheckout
+
+# AppCode #
+###########
+.idea/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+

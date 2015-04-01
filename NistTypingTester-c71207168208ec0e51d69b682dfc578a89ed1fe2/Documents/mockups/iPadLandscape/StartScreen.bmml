@@ -1,0 +1,32 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1449" measuredH="1007" mockupW="1239" mockupH="974">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="210" y="33" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1" x="107" y="102" w="1024" h="21"/>
+        <override controlID="-1"/>
+        <src>./assets/iPads.bmml#iPad%20Landscape</src>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="646" y="507" w="366" h="-1" measuredW="79" measuredH="26" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="753" y="471" w="-1" h="-1" measuredW="153" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enter%20Participant%20Number%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="803" y="548" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ReadyScreen%26bm%3BReadyScreen.bmml%26bm%3BReadyScreen.bmml%26bm%3BReadyScreen.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22593%2C515%2C646%2C542%22%20href%3D%22ReadyScreen.bmml%22%20alt%3D%22ReadyScreen%22%20id%3D%223%22/%3E</map>
+        <text>Start</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="327" y="166" w="46" h="42" measuredW="46" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Settings%26bm%3BSettings.bmml%26bm%3BSettings.bmml%26bm%3BSettings.bmml</href>
+        <icon>GearIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22117%2C133%2C163%2C175%22%20href%3D%22Settings.bmml%22%20alt%3D%22Settings%22%20id%3D%224%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inputBundle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:./typingInputFile.xsd">
+    <filters>
+        <filterItem filterId="6char">6 Character</filterItem>
+        <filterItem filterId="8char">8 Character</filterItem>
+        <filterItem filterId="10char">10 Character</filterItem>
+        <filterItem filterId="12char">12 Character</filterItem>
+        <filterItem filterId="14char">14 Character</filterItem>
+    </filters>
+    <proficiencyInputs>
+        <proficiencyInput itemId="1" groupId="1">the winner of the race</proficiencyInput>
+        <proficiencyInput itemId="2" groupId="1">we better investigate this</proficiencyInput>
+        <proficiencyInput itemId="3" groupId="1">my bike has a flat tire</proficiencyInput>
+        <proficiencyInput itemId="4" groupId="1">where can my little dog be</proficiencyInput>
+        <proficiencyInput itemId="5" groupId="1">this camera takes nice photographs</proficiencyInput>
+        <proficiencyInput itemId="6" groupId="1">two or three cups of coffee</proficiencyInput>
+        <proficiencyInput itemId="7" groupId="1">dinosaurs have been extinct for ages</proficiencyInput>
+        <proficiencyInput itemId="8" groupId="1">a problem with the engine</proficiencyInput>
+        <proficiencyInput itemId="9" groupId="1">the laser printer is jammed</proficiencyInput>
+        <proficiencyInput itemId="10" groupId="1">consequences of a wrong turn</proficiencyInput>
+    </proficiencyInputs>
+    <memorizationInputs>
+        <memorizationInput itemId="1" date="2013-08-12" groupId="1">
+            <value>ABCD12</value>
+            <filter>6char</filter>
+        </memorizationInput>
+        <memorizationInput itemId="3" date="2013-08-12"  groupId="1">
+            <value>ABCD1234</value>
+            <filter>8char</filter>
+        </memorizationInput>
+        <memorizationInput itemId="16" date="2013-08-12"  groupId="2">
+            <value>q80&lt;U/C2mv</value>
+            <filter>6char</filter>
+        </memorizationInput>
+        <memorizationInput itemId="13" date="2013-08-12"  groupId="2">
+            <value>Rmofpaf2207#)^</value>
+            <filter>8char</filter>
+        </memorizationInput>
+         <memorizationInput itemId="2" date="2013-08-12" groupId="3">
+            <value>p4d46*3TxY</value>
+            <filter>6char</filter>
+        </memorizationInput>
+        <memorizationInput itemId="4" date="2013-08-12"  groupId="3">
+            <value>QMifnh455230_$</value>
+            <filter>8char</filter>
+        </memorizationInput>
+    </memorizationInputs>
+</inputBundle>

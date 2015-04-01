@@ -1,0 +1,52 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="455" measuredH="559" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="36" controlTypeID="__group__" x="173" y="49" w="282" h="510" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="36">
+          <controlProperties>
+            <model>IPhone4</model>
+            <topBar>false</topBar>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="27" y="83" w="229" h="35" measuredW="229" measuredH="35" zOrder="1" locked="false" isInGroup="36">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="229" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="8" y="3" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <direction>left</direction>
+                <href>StartScreen%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C86%2C96%2C113%22%20href%3D%22StartScreen.bmml%22%20alt%3D%22StartScreen%22%20id%3D%221%22/%3E</map>
+                <text>Cancel</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="86" y="6" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Settings</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="168" y="4" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <direction>center</direction>
+                <href>StartScreen%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22195%2C87%2C245%2C114%22%20href%3D%22StartScreen.bmml%22%20alt%3D%22StartScreen%22%20id%3D%223%22/%3E</map>
+                <text>Done</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="133" w="-1" h="-1" measuredW="215" measuredH="278" zOrder="2" locked="false" isInGroup="36">
+          <controlProperties>
+            <hrefs>%2C%2CRandomizationSettings%26bm%3BRandomizationSettings.bmml%26bm%3BRandomizationSettings.bmml%26bm%3BRandomizationSettings.bmml%2C%2C%2C%2C%2C%2C</hrefs>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C197%2C248%2C226%22%20href%3D%22RandomizationSettings.bmml%22%20alt%3D%22RandomizationSettings%22%20id%3D%222%22/%3E%0A</map>
+            <text>Number%20of%20Strings%0ARandomize%20Strings%2C%20ON%0ARandomization%20Settings%2C%20%3E%0A6%20Character%20Strings%2C%20OFF%0A8%20Character%20Strings%2C%20ON%0A10%20Character%20Strings%2C%20ON%0A12%20Character%20Strings%2C%20ON%0A14%20Character%20Strings%2C%20ON%0A16%20Character%20Strings%2C%20OFF</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="174" y="139" w="62" h="-1" measuredW="23" measuredH="27" zOrder="3" locked="false" isInGroup="36">
+          <controlProperties>
+            <text>6</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

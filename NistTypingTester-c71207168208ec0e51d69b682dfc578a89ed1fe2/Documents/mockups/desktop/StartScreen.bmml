@@ -1,0 +1,54 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1084" measuredH="779" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TextInput" x="438" y="382" w="269" h="-1" measuredW="79" measuredH="26" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="466" y="326" w="-1" h="-1" measuredW="212" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Enter%20Participant%20Number%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="546" y="435" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ReadyScreen%26bm%3BReadyScreen.bmml%26bm%3BReadyScreen.bmml%26bm%3BReadyScreen.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22486%2C424%2C539%2C451%22%20href%3D%22ReadyScreen.bmml%22%20alt%3D%22ReadyScreen%22%20id%3D%2210%22/%3E</map>
+        <state>disabled</state>
+        <text>Start</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="__group__" x="60" y="11" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="11">
+          <controlProperties>
+            <close>true</close>
+            <dragger>true</dragger>
+            <maximizeRestore>true</maximizeRestore>
+            <minimize>true</minimize>
+            <text>Password%20Study</text>
+            <topheight>26</topheight>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::MenuBar" x="0" y="22" w="1024" h="31" measuredW="105" measuredH="29" zOrder="1" locked="false" isInGroup="11">
+          <controlProperties>
+            <text>File%2C%20%20Help</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="0" y="53" w="1024" h="35" measuredW="1024" measuredH="35" zOrder="2" locked="false" isInGroup="11">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1024" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="46" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <icon>GearIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="14" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="2">
+              <controlProperties>
+                <icon>ContactIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

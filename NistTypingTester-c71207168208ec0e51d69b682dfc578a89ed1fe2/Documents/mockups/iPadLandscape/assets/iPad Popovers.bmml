@@ -1,0 +1,246 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="899" measuredH="615" mockupW="871" mockupH="603">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="33" y="33" w="190" h="252" measuredW="190" measuredH="252" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>iPad%20Popover%201</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="83" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <icon>UpFillTriangleIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="18" w="190" h="234" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>3355443</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="65" y="24" w="-1" h="-1" measuredW="50" measuredH="22" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <align>center</align>
+            <color>16777215</color>
+            <size>14</size>
+            <text>Build%20In</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="6" y="47" w="177" h="162" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="0">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>15790322</color>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="11" y="212" w="87" h="34" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="0">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>6710886</color>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="9" y="51" w="170" h="-1" measuredW="215" measuredH="155" zOrder="5" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>v%20None%0AAppear%0ACube%0ADissolve%0ADrift</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="25" y="216" w="-1" h="-1" measuredW="50" measuredH="22" zOrder="6" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>16777215</color>
+            <size>14</size>
+            <text>Effects</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="107" y="214" w="-1" h="-1" measuredW="51" measuredH="22" zOrder="7" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>16777215</color>
+            <size>14</size>
+            <text>Options</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="__group__" x="28" y="365" w="210" h="250" measuredW="210" measuredH="250" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>iPad%20Popover%202</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="93" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>UpFillTriangleIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="18" w="210" h="232" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="1">
+          <controlProperties>
+            <color>3355443</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="47" y="22" w="-1" h="-1" measuredW="111" measuredH="22" zOrder="2" locked="false" isInGroup="1">
+          <controlProperties>
+            <align>center</align>
+            <color>16777215</color>
+            <size>14</size>
+            <text>Bookmarks%20Menu</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="9" y="51" w="192" h="-1" measuredW="215" measuredH="184" zOrder="3" locked="false" isInGroup="1">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <text>_%20%20%20New%20York%20Times%0A_%20%20%20WSJ%0A_%20%20%20Time%0A_%20%20%20National%20Geographic%0A_%20%20%20Fandango%0A_%20%20%20Rotten%20Tomatoes</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="19" y="58" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>BookIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="19" y="88" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>BookIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="19" y="117" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>BookIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="19" y="147" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>BookIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="19" y="174" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>BookIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="19" y="200" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="9" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>BookIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="2" controlTypeID="__group__" x="324" y="111" w="281" h="429" measuredW="281" measuredH="429" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>iPad%20Popover%203</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="129" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="2">
+          <controlProperties>
+            <icon>UpFillTriangleIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="18" w="281" h="411" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="2">
+          <controlProperties>
+            <color>3355443</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="9" y="26" w="133" h="30" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="2">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>6710886</color>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="53" y="28" w="-1" h="-1" measuredW="40" measuredH="22" zOrder="3" locked="false" isInGroup="2">
+          <controlProperties>
+            <color>16777215</color>
+            <size>14</size>
+            <text>Chart</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="181" y="28" w="-1" h="-1" measuredW="56" measuredH="22" zOrder="4" locked="false" isInGroup="2">
+          <controlProperties>
+            <color>16777215</color>
+            <size>14</size>
+            <text>Arrange</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="6" y="58" w="269" h="360" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="2">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>15790322</color>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::PieChart" x="38" y="70" w="78" h="81" measuredW="180" measuredH="180" zOrder="6" locked="false" isInGroup="2"/>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="16" y="369" w="248" h="-1" measuredW="215" measuredH="39" zOrder="7" locked="false" isInGroup="2">
+          <controlProperties>
+            <text>Chart%20Options%2C%20%3E</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::PieChart" x="162" y="70" w="78" h="81" measuredW="180" measuredH="180" zOrder="8" locked="false" isInGroup="2"/>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::PieChart" x="38" y="164" w="78" h="81" measuredW="180" measuredH="180" zOrder="9" locked="false" isInGroup="2"/>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::PieChart" x="162" y="164" w="78" h="81" measuredW="180" measuredH="180" zOrder="10" locked="false" isInGroup="2"/>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::PieChart" x="38" y="254" w="78" h="81" measuredW="180" measuredH="180" zOrder="11" locked="false" isInGroup="2"/>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::PieChart" x="162" y="254" w="78" h="81" measuredW="180" measuredH="180" zOrder="12" locked="false" isInGroup="2"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="3" controlTypeID="__group__" x="660" y="39" w="239" h="206" measuredW="239" measuredH="206" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>iOS%20Popover%204</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="73" y="0" w="-1" h="-1" measuredW="93" measuredH="23" zOrder="0" locked="false" isInGroup="3">
+          <controlProperties>
+            <text>Select%20one</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="0" y="19" w="239" h="187" measuredW="239" measuredH="187" zOrder="1" locked="false" isInGroup="3">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="17" w="239" h="170" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <color>0</color>
+                <shape>roundRect</shape>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="104" y="0" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>0</borderColor>
+                <color>0</color>
+                <shape>triangle</shape>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhonePicker" x="6" y="23" w="-1" h="-1" measuredW="227" measuredH="160" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>United%20Arab%20Emirates%0AUnited%20Kingdom%0AUnited%20States%0AUS%20Minor%20Outlying%20Isl.%0AUruguay</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="33" y="12" w="-1" h="-1" measuredW="95" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>2848996</color>
+        <text>iPad%20Popover%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="33" y="337" w="-1" h="-1" measuredW="97" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>2848996</color>
+        <text>iPad%20Popover%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="324" y="75" w="-1" h="-1" measuredW="96" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>2848996</color>
+        <text>iPad%20Popover%203</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="660" y="12" w="-1" h="-1" measuredW="97" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>2848996</color>
+        <text>iPad%20Popover%204</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

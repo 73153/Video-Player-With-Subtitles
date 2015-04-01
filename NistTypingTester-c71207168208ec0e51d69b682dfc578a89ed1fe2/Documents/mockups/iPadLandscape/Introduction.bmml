@@ -1,0 +1,37 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1449" measuredH="1007" mockupW="1239" mockupH="974">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="210" y="33" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1" x="107" y="102" w="1024" h="21"/>
+        <override controlID="-1"/>
+        <src>./assets/iPads.bmml#iPad%20Landscape</src>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="326" y="251" w="1006" h="523" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>Provide%20some%20instructions%20here%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="342" y="194" w="-1" h="-1" measuredW="975" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Please%20read%20the%20following%20instructions.%20%20Press%20the%20%27Begin%27%20button%20at%20the%20bottom%20of%20the%20screen%20when%20you%20are%20ready%20to%20start.</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="822" y="789" w="-1" h="-1" measuredW="55" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Memorize%26bm%3BMemorize.bmml%26bm%3BMemorize.bmml%26bm%3BMemorize.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22612%2C756%2C667%2C783%22%20href%3D%22Memorize.bmml%22%20alt%3D%22Memorize%22%20id%3D%228%22/%3E</map>
+        <text>Begin</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="759" y="789" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>StartScreen%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22549%2C756%2C597%2C783%22%20href%3D%22StartScreen.bmml%22%20alt%3D%22StartScreen%22%20id%3D%229%22/%3E</map>
+        <text>Quit</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

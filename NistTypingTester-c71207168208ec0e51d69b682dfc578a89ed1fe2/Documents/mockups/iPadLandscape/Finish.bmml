@@ -1,0 +1,30 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1449" measuredH="1007" mockupW="1239" mockupH="974">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="210" y="33" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1" x="107" y="102" w="1024" h="21"/>
+        <override controlID="-1"/>
+        <src>./assets/iPads.bmml#iPad%20Landscape</src>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="719" y="463" w="-1" h="-1" measuredW="263" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Thank%20you%20for%20your%20participation.</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="803" y="846" w="-1" h="-1" measuredW="41" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>StartScreen%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml%26bm%3BStartScreen.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22593%2C813%2C634%2C840%22%20href%3D%22StartScreen.bmml%22%20alt%3D%22StartScreen%22%20id%3D%2228%22/%3E</map>
+        <text>OK</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::CallOut" x="819" y="563" w="-1" h="-1" measuredW="118" measuredH="39" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Thank_you.html</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Canvas" x="323" y="159" w="1012" h="655" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

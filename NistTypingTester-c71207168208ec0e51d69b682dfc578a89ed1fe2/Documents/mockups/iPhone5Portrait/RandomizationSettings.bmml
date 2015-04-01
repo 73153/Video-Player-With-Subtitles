@@ -1,0 +1,50 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="395" measuredH="609" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="36" controlTypeID="__group__" x="113" y="36" w="282" h="573" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="36">
+          <controlProperties>
+            <model>IPhone5</model>
+            <topBar>false</topBar>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="27" y="85" w="229" h="35" measuredW="229" measuredH="35" zOrder="1" locked="false" isInGroup="36">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="229" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="4" y="4" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <direction>left</direction>
+                <href>Settings%26bm%3BSettings.bmml%26bm%3BSettings.bmml%26bm%3BSettings.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C89%2C92%2C116%22%20href%3D%22Settings.bmml%22%20alt%3D%22Settings%22%20id%3D%221%22/%3E</map>
+                <text>Cancel</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="173" y="4" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <direction>center</direction>
+                <href>Settings%26bm%3BSettings.bmml%26bm%3BSettings.bmml%26bm%3BSettings.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22200%2C89%2C250%2C116%22%20href%3D%22Settings.bmml%22%20alt%3D%22Settings%22%20id%3D%222%22/%3E</map>
+                <text>Done</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="73" y="7" w="-1" h="-1" measuredW="87" measuredH="21" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Randomization</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="34" y="128" w="-1" h="-1" measuredW="215" measuredH="68" zOrder="2" locked="false" isInGroup="36">
+          <controlProperties>
+            <text>v%20Random%20Seed%0AUse%20Seed%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="110" y="164" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="3" locked="false" isInGroup="36">
+          <controlProperties>
+            <state>disabled</state>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

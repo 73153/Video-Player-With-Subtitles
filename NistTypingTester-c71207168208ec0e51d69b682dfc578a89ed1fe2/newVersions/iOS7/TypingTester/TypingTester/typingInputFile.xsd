@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="inputBundle" type="inputBundleType">
+        <xs:annotation>
+            <xs:documentation>The root element for the input file.</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+
+    <xs:complexType name="filterItemType">
+        <xs:annotation>
+            <xs:documentation>This element is currently unused and is for potential future functionality.
+
+Represents a filter item that can be applied to limit the selection of input items.  The value of this element is displayed in the GUI for the filter item.  </xs:documentation>
+        </xs:annotation>
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="filterId" use="required">
+                    <xs:annotation>
+                        <xs:documentation>The internal ID for the filter.  This must be unique to the file, and is used as the value of input item filter elements.</xs:documentation>
+                    </xs:annotation>
+                </xs:attribute>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+
+    <xs:complexType name="memorizationInputType">
+        <xs:annotation>
+            <xs:documentation>Represents a string the is used in the memorization/accuracy/recall portions of the application</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="value" type="xs:string" minOccurs="1" maxOccurs="1">
+                <xs:annotation>
+                    <xs:documentation>The value of the string that is to be used in the application.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="filter" type="xs:string" minOccurs="0" maxOccurs="unbounded">
+                <xs:annotation>
+                    <xs:documentation>This element is currently unused and is in support of potential future functionality.
+
+An optional filter value used to control selection of items during testing.  Must have a matching filter item in the filters section of the document to be usable.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+        </xs:sequence>
+        <xs:attribute name="itemId" type="xs:integer" use="required">
+            <xs:annotation>
+                <xs:documentation>An id number for the input.  Must be unique in the file.  Used to ensure consistent ordering of result sets pulled from the file.</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+        <xs:attribute name="date" type="xs:date" use="optional">
+            <xs:annotation>
+                <xs:documentation>This attribute is not currently used.  The date the string was added/activated for testing.  Used to ensure that retrieval of strings that were 'active' on a certain date are retrieved.</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+        <xs:attribute name="groupId" type="xs:integer" use="optional" default="1">
+            <xs:annotation>
+                <xs:documentation>An optional group id that can be used to define pre-determined sets of strings for retrieval.</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+    </xs:complexType>
+
+    <xs:complexType name="proficiencyInputType">
+        <xs:annotation>
+            <xs:documentation>
+                Represents a string used during the proficiency input phase of the program.
+            </xs:documentation>
+        </xs:annotation>
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="itemId" use="required">
+                    <xs:annotation>
+                        <xs:documentation>
+                            The item id of the proficiency string. This number must be unique within this file and is used to ensure ordering of the proficiency strings.
+                        </xs:documentation>
+                    </xs:annotation>
+                </xs:attribute>
+                <xs:attribute name="groupId" default="1" use="optional">
+                    <xs:annotation>
+                        <xs:documentation>This attribute is not currently used.  It may be used in the future to control selection of proficiency strings.</xs:documentation>
+                    </xs:annotation>
+                </xs:attribute>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    
+    <xs:complexType name="filterItemsType">
+        <xs:annotation>
+            <xs:documentation>A grouping section that contains the available filters.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="filterItem" type="filterItemType" minOccurs="1" maxOccurs="unbounded">
+                <xs:annotation>
+                    <xs:documentation>Contains one or more filter items for use by the application.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="proficiencyInputsType">
+        <xs:annotation>
+            <xs:documentation>A section that contains one or more proficiencyinput items.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="proficiencyInput" type="proficiencyInputType" minOccurs="1"
+                maxOccurs="unbounded">
+                <xs:annotation>
+                    <xs:documentation>One or more proficiency input items to be used in the typing proficiency testing portion of the application.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="memorizationInputsType">
+        <xs:annotation>
+            <xs:documentation>
+            A grouping section that contains the input strings for the memorization/recall portions of the application.
+        </xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="memorizationInput" type="memorizationInputType" minOccurs="1"
+                maxOccurs="unbounded">
+                <xs:annotation>
+                    <xs:documentation>A memorization input value for use in the application.</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="inputBundleType">
+        <xs:annotation>
+            <xs:documentation>The root element for the input bundle for the application.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="filters" type="filterItemsType" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="proficiencyInputs" type="proficiencyInputsType" minOccurs="1"
+                maxOccurs="1"/>
+            <xs:element name="memorizationInputs" type="memorizationInputsType" minOccurs="1"
+                maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:schema>

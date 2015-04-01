@@ -1,0 +1,61 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1318" measuredH="1242" mockupW="978" mockupH="1230">
+  <controls>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="455" y="297" w="748" h="717" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>Workspace</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="690" y="181" w="-1" h="-1" measuredW="279" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Please%20memorize%20the%20string%20below.</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="757" y="218" w="-1" h="-1" measuredW="145" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>0</color>
+        <size>24</size>
+        <text>Password123</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="576" y="265" w="-1" h="-1" measuredW="506" measuredH="26" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>If%20you%20need%20a%20work%20area%20please%20use%20the%20space%20provided%20below.</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="717" y="1038" w="-1" h="-1" measuredW="264" measuredH="26" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Press%20the%20%27Begin%27%20button%20to%20start%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Component" x="340" y="12" w="978" h="1230" measuredW="978" measuredH="1230" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1" x="105" y="103" w="768" h="19"/>
+        <override controlID="-1"/>
+        <src>./assets/iPads.bmml#iPad%20Portrait</src>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="782" y="149" w="-1" h="-1" measuredW="94" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Item%20X%20of%20Y</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::StickyNote" x="690" y="449" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Masked%20-%20No%0ACapitalization%20-%20None%0ASpell%20Check%20-%20No</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="822" y="1079" w="-1" h="-1" measuredW="55" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ForcedPractice%26bm%3BForcedPractice.bmml%26bm%3BForcedPractice.bmml%26bm%3BForcedPractice.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22482%2C1067%2C537%2C1094%22%20href%3D%22ForcedPractice.bmml%22%20alt%3D%22ForcedPractice%22%20id%3D%2217%22/%3E</map>
+        <text>Begin</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
